@@ -1,1 +1,1 @@
-index.htmlecho "# ljfarre.github.io" 
+"# ljfarre.openai.query.app" 
